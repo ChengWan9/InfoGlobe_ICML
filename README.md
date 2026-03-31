@@ -65,7 +65,7 @@ The notebook performs the following steps:
 1. Imports the required packages and the local `InfoGlobe` module.
 2. Loads the example dataset:
    ```python
-   adata = sc.read_h5ad('sim_data/adata/adata_2.h5ad')
+   adata = sc.read_h5ad('sim_data/adata/adata_1.h5ad')
    ```
 3. Extracts the expression matrix and normalizes each cell to sum to 1.
 4. Initializes the model:
