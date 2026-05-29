@@ -1,4 +1,4 @@
-# InfoGlobe_ICML
+# InfoGlobe
 
 InfoGlobe is a dimension reduction method via statistical manifold learning for multinomial data. This repository includes the core `InfoGlobe` package, simulation data under `sim_data/`, and a demonstration notebook `test.ipynb` for a minimal end-to-end example.
 
